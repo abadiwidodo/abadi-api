@@ -1,0 +1,14 @@
+{
+  "name": "abadi-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adi Widodo <adi_widodo@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "abadi-microservice": "^1.0.1"
+  }
+}
